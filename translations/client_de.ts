@@ -784,18 +784,18 @@ Falls dies ein Missgeschick war und Sie sich zum Behalten der Dateien entscheide
     </message>
     <message>
         <location filename="../src/gui/folder.cpp" line="936"/>
-        <source>Remove All Files?</source>
-        <translation>Alle Dateien löschen?</translation>
+        <source>Download new files?</source>
+        <translation>Neue Datein herunterladen?</translation>
     </message>
     <message>
         <location filename="../src/gui/folder.cpp" line="939"/>
-        <source>Remove all files</source>
-        <translation>Lösche alle Dateien</translation>
+        <source>Download new files</source>
+        <translation>Neue Datein herunterladen</translation>
     </message>
     <message>
         <location filename="../src/gui/folder.cpp" line="940"/>
-        <source>Keep files</source>
-        <translation>Dateien behalten</translation>
+        <source>Keep local files</source>
+        <translation>Lokale Dateien behalten</translation>
     </message>
     <message>
         <location filename="../src/gui/folder.cpp" line="957"/>
