@@ -806,17 +806,17 @@ If this was an accident and you decide to keep your files, they will be re-synce
     </message>
     <message>
         <location filename="../src/gui/folder.cpp" line="936"/>
-        <source>Remove All Files?</source>
+        <source>Download new files?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/gui/folder.cpp" line="939"/>
-        <source>Remove all files</source>
+        <source>Download new files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/gui/folder.cpp" line="940"/>
-        <source>Keep files</source>
+        <source>Keep local files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
