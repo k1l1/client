@@ -783,9 +783,9 @@ Sind Sie sich sicher, dass Sie diese Aktion mit Ihrem Server synchronisieren mö
 Falls dies ein Missgeschick war und Sie sich zum Behalten der Dateien entscheiden, werden diese wieder vom Server synchronisiert.</translation>
     </message>
     <message>
-      <location filename="../src/gui/folder.cpp" line="936"/>
-      <source>Remove All Files?</source>
-      <translation>Alle Dateien löschen?</translation>
+        <location filename="../src/gui/folder.cpp" line="936"/>
+        <source>Remove All Files?</source>
+        <translation>Alle Dateien löschen?</translation>
     </message>
     <message>
         <location filename="../src/gui/folder.cpp" line="939"/>
